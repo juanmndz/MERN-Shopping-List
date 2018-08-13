@@ -1,9 +1,12 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
-
+const logger = require('morgtan')
 const items = require('./routes/api/items');
 const app = express();
+
+
+app.use(logger('dev'));
 // Bodyparser middleware
 app.use(bodyParser.json());
 
