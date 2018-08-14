@@ -1,6 +1,6 @@
-# MERN Starter
+# MERN Shopping List
 
-This is a simple MERN stack boilerplate.
+A MERN App for a Shopping List.
 
 ## BackEnd
 
