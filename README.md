@@ -1,6 +1,14 @@
 # MERN Shopping List
 
-A MERN App for a Shopping List.
+A simple shopping list that uses Mongo, React, Express, and Node to create item list can be saved dynamically on the server.
+
+## Live Demo
+
+## User Stories
+
+As a User, I can add items from the add item button on list page.
+As a User, I can remove items from list page.
+As a User, I can keep my list save independently on the cloud.
 
 ## BackEnd
 
