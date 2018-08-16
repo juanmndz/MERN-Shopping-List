@@ -5,12 +5,15 @@ A simple shopping list that uses Mongo, React, Express, and Node to create item 
 ## Live Demo
 
 [Demo](https://mern-shop-list-demo.herokuapp.com/)
+
 ![Demo](https://res.cloudinary.com/dni2ym3yq/image/upload/v1534399356/ShoppingList.gif)
 
 ## User Stories
 
 As a User, I can add items from the add item button on list page.
+
 As a User, I can remove items from list page.
+
 As a User, I can keep my list save independently on the cloud.
 
 ## BackEnd
